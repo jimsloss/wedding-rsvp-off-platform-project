@@ -14,5 +14,6 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	    |
-| Jim Sloss         | 4 	    |
+| James Sloss       | 2 	    |
+
 
